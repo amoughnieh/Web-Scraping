@@ -2,8 +2,6 @@
 
 This is a Python script to scrape data from job posts on Upwork.
 
-## Introduction
-
 This project demonstrates web scraping techniques using Python. It aims to extract job posting information for educational and non-commercial purposes. Please note that this script may violate Upwork’s Terms of Service, so it's intended strictly for demonstration.
 
 ---
