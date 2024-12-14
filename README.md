@@ -83,10 +83,6 @@ Web scraping without explicit permission raises ethical and legal concerns. Alwa
     **Job link**
     https://www.upwork.com/jobs/*********/?referrer_url_path=/nx/search/jobs/
 
-## Project Structure:
-
-[Python Script](job_search.py)
-
 ## Author:
 
 Ali Moughnieh: [\@amoughnieh](https://github.com/amoughnieh)
