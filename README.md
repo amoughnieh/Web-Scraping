@@ -45,7 +45,6 @@ Web scraping without explicit permission raises ethical and legal concerns. Alwa
 
 ---
 
-# Appendix:
 ## Sample Input:
     Enter search term:
     >>? 'electrical engineer'
